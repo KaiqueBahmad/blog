@@ -1,3 +1,4 @@
+# **NAO COPIE E COLE ESSES COMANDOS, ainda ta meio bugado**
 # **Instalação**
 
 ## **Instalando o Ruby**

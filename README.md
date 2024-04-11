@@ -10,18 +10,15 @@
 
 ### echo \'export PATH="\$HOME/gems/bin:\$PATH\' >> ~/.bashrc
 
+### source ~/.bashrc
 
+## **Instalando o Jekyll e o bundler**
 
+### gem install jekyll bundler
 
+## Rodando o projeto
 
-### 
+### ./start.sh
 
-###echo 'export GEM\_HOME="$HOME/gems"' >> ~/.bashrc
-###echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-###source ~/.bashrc
-
-##Instalando o jekkyl e o bundler
-###gem install jekyll bundler
-
-##Rodando o projeto
-###./start.sh
+> 
+> 

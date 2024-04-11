@@ -1,8 +1,21 @@
-#Instalação
+# **Instalação**
 
-##Instalando o Ruby
-###sudo apt-get install ruby-full build-essential zlib1g-dev
-###echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+## **Instalando o Ruby**
+
+### sudo apt-get install ruby-full build-essential zlib1g-dev
+
+### echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+
+### echo 'export GEM\_HOME="$HOME/gems"' >> ~/.bashrc
+
+### echo \'export PATH="\$HOME/gems/bin:\$PATH\' >> ~/.bashrc
+
+
+
+
+
+### 
+
 ###echo 'export GEM\_HOME="$HOME/gems"' >> ~/.bashrc
 ###echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 ###source ~/.bashrc
